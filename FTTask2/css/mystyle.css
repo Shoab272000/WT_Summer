@@ -1,0 +1,53 @@
+body{
+    background-color: 	lightsteelblue;
+}
+
+h1{
+    width: 280px;
+    border-left:10px solid cyan;
+    background-color: white;
+    padding-left: 25px;
+    margin-top:20px;
+    
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h4{
+    text-align: center;
+    color: blue;
+}
+.space{
+    word-spacing: 30px;
+    background-color: rgb(66, 4, 75);
+    color:white;
+    height: 40px;
+    padding-top: 20px;
+    margin-top: 0px;
+}
+
+th, td{
+    border-bottom: 1px solid white;
+}
+.button{
+    width: 100px;
+    font-weight: bold;
+    margin-right :10px;
+}
+.submit{
+    background-color: blue;
+}
+.reset{
+    background-color: blue;
+}
+
+table {
+    background-color: yellow;
+    color: black;
+}
+.line-1{
+    height: 1px;
+    background: black;
+    border: 10;
+}
